@@ -6,6 +6,8 @@ Booth (https://wata-ofuton.booth.pm/) にて配布しているものも含まれ
 
 何かありましたら Twitter (https://twitter.com/wata_pj) へ
 
+---
+
 ## 前提環境
 動作確認環境
 - Unity2022.3.6f1
@@ -33,8 +35,8 @@ Booth (https://wata-ofuton.booth.pm/) にて配布しているものも含まれ
 WataOfuton フォルダ内に置いてあります
 
 - TransformExpansion
- - SymmetryBoneEditor (左右対称のオブジェクトに Transform の変更を自動で適用)
- - IgnoreChildTransform (子のオブジェクトに対する Transform の変更を無視)
-- MMDSetup (半自動でMMDワールドへ対応 MA対応)
+ * SymmetryBoneEditor (左右対称のオブジェクトに Transform の変更を自動で適用)
+ * IgnoreChildTransform (子のオブジェクトに対する Transform の変更を無視)
+- MMDSetup (半自動でMMDワールドへ対応 ModulerAvatar必須)
 - UnusedPropertiesRemover (マテリアル内の未使用パラメータを削除する)
 - BoneCopier (2つのオブジェクト内にある同名オブジェクトを一覧化し、各 Transform の値をコピーする)
