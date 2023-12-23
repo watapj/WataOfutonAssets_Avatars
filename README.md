@@ -2,7 +2,7 @@
 
 アバター用の Project 向けに作ったものをまとめています
 
-    Booth (https://wata-ofuton.booth.pm/) にて配布しているものも含まれます
+Booth (https://wata-ofuton.booth.pm/) にて配布しているものも含まれます
 
 何かありましたら Twitter (https://twitter.com/wata_pj) へ
 
@@ -17,25 +17,24 @@
 - lilToon(https://lilxyzw.github.io/lilToon/#/)
 
 
----
 ## 配布物一覧
 [Clip Costume Shaders(lilToon)](https://github.com/watapj/WataOfutonAssets_Avatars/raw/main/UnityPackages/lilToon_ClipCostume.unitypackage)
 
-    lilToonの改変仕様
+    lilToonの改変バージョン
 
 [SleepSphere](https://github.com/watapj/WataOfutonAssets_Avatars/raw/main/UnityPackages/SleepSphere_v1.1.unitypackage)
 
 [RainbowPolyRing](https://github.com/watapj/WataOfutonAssets_Avatars/raw/main/UnityPackages/RainbowPolyRing.unitypackage)
 
-[アバター改変用エディタ拡張Pack] 詳細な説明書を作成中...
 
+### アバター改変用エディタ拡張Pack
+
+詳細な説明書を作成中...
 WataOfuton フォルダ内に置いてあります
 
 - TransformExpansion
--- SymmetryBoneEditor (左右対称のオブジェクトに Transform の変更を自動で適用)
--- IgnoreChildTransform (子のオブジェクトに対する Transform の変更を無視)
-- MMDSetup (ほぼ全自動でMMDワールド対応)
-- UnusedPropertiesRemover (マテリアル内の未使用パラメータを削除)
-- BoneCopier (2つのオブジェクト内にある同名オブジェクトを一覧化し、Transformの値をコピー)
-
-
+ - SymmetryBoneEditor (左右対称のオブジェクトに Transform の変更を自動で適用)
+ - IgnoreChildTransform (子のオブジェクトに対する Transform の変更を無視)
+- MMDSetup (半自動でMMDワールドへ対応 MA対応)
+- UnusedPropertiesRemover (マテリアル内の未使用パラメータを削除する)
+- BoneCopier (2つのオブジェクト内にある同名オブジェクトを一覧化し、各 Transform の値をコピーする)
