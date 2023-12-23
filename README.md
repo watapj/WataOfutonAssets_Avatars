@@ -35,8 +35,8 @@ Booth (https://wata-ofuton.booth.pm/) にて配布しているものも含まれ
 WataOfuton フォルダ内に置いてあります
 
 - TransformExpansion
- * SymmetryBoneEditor (左右対称のオブジェクトに Transform の変更を自動で適用)
- * IgnoreChildTransform (子のオブジェクトに対する Transform の変更を無視)
+  - SymmetryBoneEditor (左右対称のオブジェクトに Transform の変更を自動で適用)
+  - IgnoreChildTransform (子のオブジェクトに対する Transform の変更を無視)
 - MMDSetup (半自動でMMDワールドへ対応 ModulerAvatar必須)
 - UnusedPropertiesRemover (マテリアル内の未使用パラメータを削除する)
 - BoneCopier (2つのオブジェクト内にある同名オブジェクトを一覧化し、各 Transform の値をコピーする)
