@@ -1,0 +1,19 @@
+{
+    "name": "MMDSetup.Editor",
+    "rootNamespace": "",
+    "references": [
+        "nadena.dev.ndmf",
+        "MMDSetup"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
